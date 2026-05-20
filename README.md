@@ -1,7 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-# Name: MANIKANDAN M
-# Register Number: 212224040183
+# Name: HARISH S
+# Register Number: 212224110022
 
 Aim:
 To move the files between virtual machine.
